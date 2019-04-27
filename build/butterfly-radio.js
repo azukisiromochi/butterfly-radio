@@ -32,7 +32,7 @@ opacity: 0;
 position: absolute;
 }
 .butterfly-radio + label {
-background-image: url('../assets/flower-off.png');
+background-image: url(https://user-images.githubusercontent.com/45185896/56783220-971f4b80-6825-11e9-930c-7b7dd3216f68.png);
 background-repeat: no-repeat;
 background-size: contain;
 height: 2em;
@@ -43,7 +43,7 @@ cursor: pointer;
 overflow: hidden;
 }
 .butterfly-radio:checked + label {
-background-image: url('../assets/flower-on.png');
+background-image: url(https://user-images.githubusercontent.com/45185896/56783218-92f32e00-6825-11e9-8c7d-40db66e717e3.png);
 background-repeat: no-repeat;
 background-size: contain;
 }
@@ -76,7 +76,7 @@ class ButterflyRadio extends HTMLElement {
 
           // Make butterfly image.
           const _img = document.createElement('img');
-          _img.src = '../assets/butterfly.png';
+          _img.src = 'https://user-images.githubusercontent.com/45185896/56783226-a0a8b380-6825-11e9-976b-606b2a85cafe.png';
           _img.classList.add('butterfly');
           _img.classList.add('butterfly-far');
           _img.classList.add('butterfly-hidden');

@@ -1,6 +1,6 @@
 {
   "name": "butterfly-radio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Change html radio button to butterfly animation.",
   "main": "index.js",
   "repository": {
