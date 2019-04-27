@@ -9,12 +9,12 @@ In a browser:
 <script src="butterfly-radio.js"></script>
 ```
 
-Using npm:
+[WIP] Using npm:
 ```shell
 $ npm install butterfly-radio
 ```
 
-In Node.js:
+[WIP] In Node.js:
 ```javascript
 const butterflyRadio = require("butterfly-radio");
 butterflyRadio();
