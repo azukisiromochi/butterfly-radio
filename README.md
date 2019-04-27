@@ -1,4 +1,5 @@
 # butterfly-radio
+![butterfly-radio_sample](https://user-images.githubusercontent.com/45185896/56851104-4a7f6180-6946-11e9-8e55-cef55680bd2f.gif)
 Change html radio button to butterfly animation.
 
 ## Installation
@@ -26,7 +27,6 @@ butterflyRadio();
   <input type="radio" value="3"><label>Blue flower</label>
 </butterfly-radio>
 ```
-![butterfly-radio_sample](https://user-images.githubusercontent.com/45185896/56851104-4a7f6180-6946-11e9-8e55-cef55680bd2f.gif)
 
 ## License
 butterfly-radio is created under the [MIT](https://opensource.org/licenses/MIT) license.
