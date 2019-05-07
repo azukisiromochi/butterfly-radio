@@ -30,6 +30,7 @@ butterflyRadio();
 ```
 
 🌻 The `name` attribute and `id` attribute of the `<input>` element can be omitted.
+
 🌻 The `for` attribute of the `<label>` element can be omitted.
 
 ## 🌼 License
