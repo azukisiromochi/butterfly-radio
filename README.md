@@ -1,26 +1,26 @@
-# butterfly-radio
+# 🦋 butterfly-radio 🦋
 ![butterfly-radio_sample](https://user-images.githubusercontent.com/45185896/56851104-4a7f6180-6946-11e9-8e55-cef55680bd2f.gif)
 
-Change html radio button to butterfly animation.
+🌻 Change html radio button to butterfly animation.
 
-## Installation
-In a browser:
+## 🌼 Installation
+🌺 In a browser:
 ```html
 <script src="butterfly-radio.js"></script>
 ```
 
-[WIP] Using npm:
+🌺 Using npm:
 ```shell
 $ npm install butterfly-radio
 ```
 
-[WIP] In Node.js:
+🌺 In Node.js:
 ```javascript
 const butterflyRadio = require("butterfly-radio");
 butterflyRadio();
 ```
 
-## Usage
+## 🌼 Usage
 ```html
 <butterfly-radio name="flower">
   <input type="radio" value="1"><label>Red flower</label>
@@ -29,5 +29,8 @@ butterflyRadio();
 </butterfly-radio>
 ```
 
-## License
+🌻 The `name` attribute and `id` attribute of the `<input>` element can be omitted.
+🌻 The `for` attribute of the `<label>` element can be omitted.
+
+## 🌼 License
 butterfly-radio is created under the [MIT](https://opensource.org/licenses/MIT) license.
